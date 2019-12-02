@@ -1,0 +1,2 @@
+noun: 20, verb: 3
+result: 2003
